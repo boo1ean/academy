@@ -1,4 +1,2 @@
-academy
+Academy
 =======
-
-academy
