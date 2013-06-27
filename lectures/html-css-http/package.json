@@ -1,5 +1,5 @@
 {
-  "name": "html-css-http-and-stuff",
+  "name": "html-css-http",
   "private": true,
   "devDependencies": {
     "grunt": "~0.4.1",
