@@ -1,5 +1,5 @@
 {
-  "name": "async-task-job-queue",
+  "name": "async-tasks-queue",
   "version": "0.0.1",
   "dependencies": {
     "reveal.js": "~2.4",

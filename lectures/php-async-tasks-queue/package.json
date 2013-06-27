@@ -1,5 +1,5 @@
 {
-  "name": "async-task-job-queue",
+  "name": "async-tasks-queue",
   "private": true,
   "devDependencies": {
     "grunt": "~0.4.1",
