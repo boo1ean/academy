@@ -25,3 +25,11 @@
 .indent-top-small {
     margin-top: 1em !important;
 }
+
+.clear-code {
+    box-shadow: none !important;
+}
+
+.clear-code > code {
+    background: none !important;
+}
