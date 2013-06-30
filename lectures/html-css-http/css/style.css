@@ -21,3 +21,7 @@
 .text-transform-none {
     text-transform: none !important;
 }
+
+.indent-top-small {
+    margin-top: 1em !important;
+}
