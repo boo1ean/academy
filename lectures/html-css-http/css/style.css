@@ -1,3 +1,23 @@
 .red {
     color: #ff4444;
 }
+
+.list-style-none > li {
+    list-style: none;
+}
+
+.font-200 {
+    font-size: 200% !important;
+}
+
+.font-250 {
+    font-size: 250% !important;
+}
+
+.inline {
+    display: inline !important;
+}
+
+.text-transform-none {
+    text-transform: none !important;
+}

@@ -1,4 +1,9 @@
 [
     "index.md",
-    "html-intro.html"
+    [
+        "html-intro.html",
+        "html-consist-of.html",
+        "different-type-of-tags.html",
+        "atrributes.html"
+    ]
 ]
