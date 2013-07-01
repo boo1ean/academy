@@ -1,1 +1,1 @@
-# Yii2 introduction. MVC. Composer
+## Yii2. MVC. Composer

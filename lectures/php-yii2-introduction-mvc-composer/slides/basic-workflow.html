@@ -1,0 +1,17 @@
+<section>
+    <h2>Workflow</h2>
+    <img src="img/mvc-workflow.png" alt="MVC structure">
+    <aside class="notes">
+        1. A user makes a request with the URL http://www.example.com/index.php?r=post/show&id=1 and the Web server handles the request by executing the bootstrap script index.php.<br/>
+        2. The bootstrap script creates an Application instance and runs it.<br/>
+        3. The Application obtains detailed user request information from an application component named request.<br/>
+        4. The application determines the requested controller and action with the help of an application component named urlManager. For this example, the controller is post, which refers to the PostController class; and the action is show, whose actual meaning is determined by the controller.<br/>
+        5. The application creates an instance of the requested controller to further handle the user request. The controller determines that the action show refers to a method named actionShow in the controller class. It then creates and executes filters (e.g. access control, benchmarking) associated with this action. The action is executed if it is allowed by the filters.<br/>
+        6. The action reads a Post model whose ID is 1 from the database.<br/>
+        7. The action renders a view named show with the Post model.<br/>
+        8. The view reads and displays the attributes of the Post model.<br/>
+        9. The view executes some widgets.<br/>
+        10. The view rendering result is embedded in a layout.<br/>
+        11. The action completes the view rendering and displays the result to the user.<br/>
+    </aside>
+</section>
