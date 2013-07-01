@@ -1,6 +1,9 @@
 [
     "index.md",
     "yii-intro.html",
-    "base-structure.html",
-    "basic-workflow.html"
+    "mvc.html",
+    [
+        "base-structure.html",
+        "basic-workflow.html"
+    ]
 ]

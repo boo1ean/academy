@@ -1,3 +1,27 @@
 .width-70 {
     width: 70% !important;
 }
+
+.text-transform-none {
+    text-transform: none !important;
+}
+
+.list-style-none > li {
+    list-style: none;
+}
+
+.indent-top-small {
+    margin-top: 1em !important;
+}
+
+.clear-code {
+    box-shadow: none !important;
+}
+
+.clear-code > code {
+    background: none !important;
+}
+
+.red {
+    color: #ff4444;
+}
