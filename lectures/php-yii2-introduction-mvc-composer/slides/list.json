@@ -16,6 +16,7 @@
     [
         "controller-intro.html",
         "controller.html",
-        "controller-example.md"
+        "controller-example.md",
+        "internal-routing.md"
     ]
 ]
