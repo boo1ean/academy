@@ -31,3 +31,7 @@
     border: none !important;
     background: none !important;
 }
+
+.center {
+    text-align: center !important;
+}

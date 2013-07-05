@@ -4,7 +4,8 @@
         "yii-intro.html",
         "namespaces.html",
         "namespace-example.md",
-        "namespace-sub.md"
+        "namespace-sub.md",
+        "namespace-autoload.md"
     ],
     "mvc.html",
     [
