@@ -1,4 +1,4 @@
-<h3 class="text-transform-none">Stream.php</h3>
+<h3 class="text-transform-none">System/Stream.php</h3>
 ```php
 <?php namespace System; // Namespace definition
 

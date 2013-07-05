@@ -3,16 +3,14 @@
     [
         "yii-intro.html",
         "namespaces.html",
-        "namespace-example.md"
+        "namespace-example.md",
+        "namespace-sub.md"
     ],
-
     "mvc.html",
-
     [
         "base-structure.html",
         "basic-workflow.html"
     ],
-
     [
         "controller-intro.html",
         "controller.html"
