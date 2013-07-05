@@ -25,3 +25,9 @@
 .red {
     color: #ff4444;
 }
+
+.clear {
+    box-shadow: none !important;
+    border: none !important;
+    background: none !important;
+}

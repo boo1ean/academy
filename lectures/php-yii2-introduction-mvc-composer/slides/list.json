@@ -1,9 +1,20 @@
 [
     "index.md",
-    "yii-intro.html",
+    [
+        "yii-intro.html",
+        "namespaces.html",
+        "namespace-example.md"
+    ],
+
     "mvc.html",
+
     [
         "base-structure.html",
         "basic-workflow.html"
+    ],
+
+    [
+        "controller-intro.html",
+        "controller.html"
     ]
 ]
