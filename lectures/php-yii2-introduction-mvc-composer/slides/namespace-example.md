@@ -1,6 +1,6 @@
 <h3 class="text-transform-none">System/Stream.php</h3>
 ```php
-<?php namespace System; // Namespace definition
+namespace System; // Namespace definition
 
 const DEFAULT_STREAM_ADDRESS = 'ssl://default.stream';
 class Stream

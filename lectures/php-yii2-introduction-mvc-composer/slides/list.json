@@ -15,6 +15,7 @@
     ],
     [
         "controller-intro.html",
-        "controller.html"
+        "controller.html",
+        "controller-example.md"
     ]
 ]

@@ -1,7 +1,7 @@
 ### Resolving global namespace
 
 ```php
-<?php namespace System;
+namespace System;
 
 class Worker
 {
