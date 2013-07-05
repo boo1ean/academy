@@ -2,7 +2,7 @@
 ```php
 <?php namespace System\IO\Input; // Sub-namespace definition
 
-use System\Stream as BaseStream;
+use System\Stream as BaseStream; // Local alias definition
 
 class Stream extends BaseStream
 {

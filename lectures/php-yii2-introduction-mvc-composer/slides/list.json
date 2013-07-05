@@ -5,7 +5,8 @@
         "namespaces.html",
         "namespace-example.md",
         "namespace-sub.md",
-        "namespace-autoload.md"
+        "namespace-autoload.md",
+        "namespace-resolve-global.md"
     ],
     "mvc.html",
     [
