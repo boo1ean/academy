@@ -18,5 +18,11 @@
         "controller.html",
         "controller-example.md",
         "internal-routing.md"
+    ],
+    [
+        "model.md",
+        "model-declaration.md",
+        "connect-to-db.md",
+        "acttive-example.md"
     ]
 ]
