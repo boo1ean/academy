@@ -8,7 +8,7 @@ $a->age  = 10;
 $a->save();
 
 // Update
-$customer = Customer::find()->first();
+$customer = Customer::find($id);
 $customer->age = 20;
 $customer->save();
 ```

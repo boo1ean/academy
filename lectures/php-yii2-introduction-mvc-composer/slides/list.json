@@ -25,5 +25,11 @@
         "connect-to-db.md",
         "acttive-example.md",
         "model-update.md"
+    ],
+    [
+        "view.md",
+        "assets.md",
+        "view-rendering.md",
+        "layouting.html"
     ]
 ]
