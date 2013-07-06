@@ -23,6 +23,7 @@
         "model.md",
         "model-declaration.md",
         "connect-to-db.md",
-        "acttive-example.md"
+        "acttive-example.md",
+        "model-update.md"
     ]
 ]
