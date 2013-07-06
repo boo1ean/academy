@@ -28,8 +28,21 @@
     ],
     [
         "view.md",
-        "assets.md",
         "view-rendering.md",
-        "layouting.html"
-    ]
+        "layouting.html",
+        "assets.md"
+    ],
+    [
+        "yii-structure.html",
+        "object-class.html",
+        "component-class.html"
+    ],
+    [
+        "composer.html",
+        "composer-install.md",
+        "composer-describe-deps.md",
+        "composer-deps-inst.md",
+        "composer-autoloading.md"
+    ],
+    "links.html"
 ]
