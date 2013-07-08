@@ -7,5 +7,10 @@
         "atrributes.html",
         "basic-tags.html",
         "dhh.html"
+    ],
+    [
+        "css-title.html",
+        "css-link.md",
+        "dont-use-inline.md"
     ]
 ]
