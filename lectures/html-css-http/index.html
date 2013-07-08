@@ -69,6 +69,10 @@
       { src: 'js/loadtemplates.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
       ]
     });
+
+    window.setTimeout(function() {
+        $("code").attr("contenteditable", true);
+    }, 5000);
   });
   </script>
 

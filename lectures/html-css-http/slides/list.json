@@ -11,6 +11,8 @@
     [
         "css-title.html",
         "css-link.md",
-        "dont-use-inline.md"
+        "dont-use-inline.md",
+        "css-rules.md",
+        "selectors.md"
     ]
 ]
