@@ -10,9 +10,11 @@
     ],
     [
         "css-title.html",
-        "css-link.md",
-        "dont-use-inline.md",
         "css-rules.md",
-        "selectors.md"
+        "selectors.md",
+        "pseudo-class.md",
+        "palyground.html",
+        "css-link.md",
+        "dont-use-inline.md"
     ]
 ]
