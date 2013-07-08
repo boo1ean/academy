@@ -16,5 +16,12 @@
         "palyground.html",
         "css-link.md",
         "dont-use-inline.md"
+    ],
+    [
+        "http-intro.html",
+        "client-server.html",
+        "http-methods.html",
+        "http-status-codes.html",
+        "http-get-sample.md"
     ]
 ]
