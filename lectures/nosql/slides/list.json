@@ -5,5 +5,17 @@
         "relational-databases.md",
         "acid.html",
         "sql.html"
+    ],
+    "map-reduce.md",
+    "nosql-types.md",
+    [
+        "key-value-intro.html",
+        "key-value-types.html"
+    ],
+    [
+        "document-intro.md",
+        "sample-document.md",
+        "mongo-intro.md",
+        "sharding.html"
     ]
 ]
