@@ -14,8 +14,13 @@
     ],
     [
         "document-intro.md",
-        "sample-document.md",
+        "sample-document.md"
+    ],
+    [
         "mongo-intro.md",
-        "sharding.html"
+        "sharding.html",
+        "shard-cluster.html",
+        "shard-balancing.html",
+        "sharding-types.html"
     ]
 ]
