@@ -1,28 +1,23 @@
 [
     "index.md",
-    "intro.html",
-
+    "intro.md",
     [
         "relational-databases.md",
         "acid.html",
         "sql.html"
     ],
-
     "map-reduce.md",
     "nosql-types.md",
-
     [
         "key-value-intro.html",
         "key-value-types.html",
         "key-value-why-fast.html",
         "hash-table.html"
     ],
-
     [
         "document-intro.md",
         "sample-document.md"
     ],
-
     [
         "mongo-intro.md",
         "sharding.html",
@@ -30,12 +25,16 @@
         "shard-balancing.html",
         "sharding-types.html"
     ],
-
     "column-based.md",
     [
         "graph-intro.md",
         "graph-png.html"
     ],
-
-    "cap-theorem.html"
+    "cap-theorem.html",
+    "usage.md",
+    [
+        "acid-vs-base.html",
+        "acid-what.html",
+        "base-what.html"
+    ]
 ]
