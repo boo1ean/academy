@@ -1,5 +1,8 @@
 [
-    "index.md",
+    [
+        "index.md",
+        "big-data-trend.html"
+    ],
     [
         "relational-databases.md",
         "acid.html",
@@ -29,18 +32,17 @@
         "document-intro.md",
         "sample-document.md"
     ],
+    "column-based.md",
+    [
+        "graph-intro.md",
+        "graph-png.html"
+    ],
     [
         "mongo-intro.md",
         "bson.md",
         "sharding.html",
         "shard-cluster.html",
-        "shard-balancing.html",
-        "sharding-types.html"
-    ],
-    "column-based.md",
-    [
-        "graph-intro.md",
-        "graph-png.html"
+        "shard-balancing.html"
     ],
     "usage.md",
     "lets-nosql.md",
