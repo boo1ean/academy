@@ -39,3 +39,7 @@
 code {
     overflow: visible !important;
 }
+
+.li-margin li {
+    margin-bottom: 15px !important;
+}
