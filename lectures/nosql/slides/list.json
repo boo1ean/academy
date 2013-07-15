@@ -5,15 +5,12 @@
         "acid.html",
         "sql.html"
     ],
-
     "cap-theorem.html",
-
     [
         "acid-vs-base.html",
         "acid-what.html",
         "base-what.html"
     ],
-
     "intro.md",
     [
         "map-reduce.md",
@@ -21,7 +18,6 @@
         "map-reduce-sample.html",
         "reduce-cond.md"
     ],
-
     "nosql-types.md",
     [
         "key-value-intro.html",
@@ -29,26 +25,24 @@
         "key-value-why-fast.html",
         "hash-table.html"
     ],
-
     [
         "document-intro.md",
         "sample-document.md"
     ],
-
     [
         "mongo-intro.md",
+        "bson.md",
         "sharding.html",
         "shard-cluster.html",
         "shard-balancing.html",
         "sharding-types.html"
     ],
-
     "column-based.md",
-
     [
         "graph-intro.md",
         "graph-png.html"
     ],
-
-    "usage.md"
+    "usage.md",
+    "lets-nosql.md",
+    "thanks.html"
 ]
