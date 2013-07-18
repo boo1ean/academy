@@ -1,1 +1,13 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "api.html",
+        "api-types.md"
+    ],
+    [
+        "rest.html",
+        "rest-goals.md",
+        "rest-stuff.md",
+        "http-methods.html"
+    ]
+]
