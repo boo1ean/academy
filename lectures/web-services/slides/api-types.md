@@ -1,5 +1,5 @@
 ## Web api approaches
 
-- REST
-- XML/JSON-RPC
 - SOAP
+- XML/JSON-RPC
+- REST

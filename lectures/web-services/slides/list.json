@@ -5,10 +5,24 @@
         "api-types.md"
     ],
     [
+        "soap.html",
+        "soap-message.md"
+    ],
+    [
         "rest.html",
         "rest-goals.md",
         "rest-stuff.md",
         "http-methods.html",
-        "rest-actions.md"
-    ]
+        "rest-actions.md",
+        "rest-example.md"
+    ],
+    [
+        "rpc.html",
+        "json-rpc-request-response.md",
+        "json-rpc-with-params.md",
+        "json-rpc-error.md"
+    ],
+    "rest-vs-rpc.md",
+    "chose.html",
+    "thanks.html"
 ]
