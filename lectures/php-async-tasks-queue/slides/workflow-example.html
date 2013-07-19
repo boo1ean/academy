@@ -1,0 +1,18 @@
+<section>
+    <h2>Example</h2>
+
+    <ol>
+        <li>User orders food and should get email notification about order</li>
+        <li>Application handles request, save data and enqueue email job</li>
+        <li>Application responds to the user with success message
+            <ol class="fragment" style="margin-top: 15px; margin-bottom: 15px;">
+                <li>Job manager looks to the job queue</li>
+                <li>Job manager finds new task in queue and picks it out</li>
+                <li>Job manager ask job worker to do this task</li>
+                <li>Job worker does job and tell about it to the manager</li>
+                <li>Email is sent!</li>
+            </ol>
+        </li>
+        <li>Everyone is happy!</li>
+    </ol>
+</section>

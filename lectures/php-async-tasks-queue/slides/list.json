@@ -1,1 +1,21 @@
-["index.md"]
+[
+    "index.md",
+    "tasks.md",
+    "do-not-make-user-wait.md",
+    "please-someone-help.html",
+    "solution.md",
+    [
+        "workflow.md",
+        "workflow-example.html"
+    ],
+    "queues.md",
+    [
+        "gearman.html",
+        "gearman-benif.md",
+        "gearman-img.html",
+        "gearman-example.md",
+        "gearman-flow.html",
+        "gearman-custom.html"
+    ],
+    "thanks.md"
+]
